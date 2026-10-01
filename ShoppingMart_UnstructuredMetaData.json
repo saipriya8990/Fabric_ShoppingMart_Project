@@ -1,19 +1,19 @@
 [
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/reviews.json",
-        "sink_folder" : "ShoppingMart_Bronze_Reviews",
-        "sink_file" : "ShoppingMart_review.json"
+        "source_url" : "refs/heads/main/UnstructuredData/reviews.json",
+        "sink_folder" : "Bronze_Reviews",
+        "sink_file" : "review.json"
     },
     {
-         "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/social_media.json",
-        "sink_folder" : "ShoppingMart_Bronze_Social_Media",
-        "sink_file" : "ShoppingMart_social_media.json"
+         "source_url" : "refs/heads/main/UnstructuredData/social_media.json",
+        "sink_folder" : "Bronze_Social_Media",
+        "sink_file" : "social_media.json"
 
     },
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/web_logs.json",
-        "sink_folder" : "ShoppingMart_Bronze_Web_Logs",
-        "sink_file" : "ShoppingMart_web_logs.json"
+        "source_url" : "refs/heads/main/UnstructuredData/web_logs.json",
+        "sink_folder" : "Bronze_Web_Logs",
+        "sink_file" : "web_logs.json"
 
     }
 ]
