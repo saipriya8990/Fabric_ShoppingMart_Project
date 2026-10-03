@@ -53,3 +53,7 @@ Adding a new source is just a new entry in the metadata JSON — no pipeline cha
 |   |  ├──SilverLayer_Notebook.ipynb
 |   |  ├──GoldLayer_Notebook.ipynb
 
+
+<img width="1807" height="900" alt="image" src="https://github.com/user-attachments/assets/b5849530-c9b0-48d9-9cea-586a120b5e98" />
+
+
